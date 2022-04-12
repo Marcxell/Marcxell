@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marcxell
-- 👀 I’m interested in programmong
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate on projects that a total beginner like me will be allowed
 - 📫 How to reach me 
